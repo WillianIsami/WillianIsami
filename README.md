@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <h1>
+    Hey There 👋!
+  </h1>
+  <h2>My name is Willian and I'm student</h2>
+</div>
 
-<!--
-**WillianIsami/WillianIsami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I’m currently open to work.
+- 💭 I’m interested in learning more about AI, FP and type theory.
+- 📫 How to contact me: <a href="https://www.linkedin.com/in/willianism/">Linkedin</a>.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianIsami&layout=compact&theme=dracula)
