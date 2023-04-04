@@ -9,4 +9,3 @@
 - 💭 I’m interested in learning more about AI, FP and type theory.
 - 📫 How to contact me: <a href="https://www.linkedin.com/in/willianism/">Linkedin</a>.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianIsami&layout=compact&theme=dracula)
